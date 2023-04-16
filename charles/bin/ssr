@@ -17,7 +17,7 @@ fi
 WEBSITE=http://ss.pythonic.life
 BRANCH=manyuser
 GIT_REPO=https://github.com/shadowsocksrr/shadowsocksr.git
-INSTALL_PATH=$HOME/.local/share/shadowsocksr
+INSTALL_PATH=/workspace/shadowsocksr
 
 ssr_help() {
     echo ShadowSocksR python client tool
